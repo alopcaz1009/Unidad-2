@@ -6,4 +6,4 @@ function Pedirdatos() {
          edad = prompt("Cuántos años tienes")
 
             alert("¡Hola" + nombre + "veo que tienes" + edad + "años.!")
-}
+    }
